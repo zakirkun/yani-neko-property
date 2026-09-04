@@ -1,0 +1,15 @@
+.git
+.env
+.idea
+.vscode
+node_modules
+vendor
+bootstrap/cache/*.php
+storage/logs/*
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+public/storage
+.phpunit.cache
+.phpunit.result.cache
+npm-debug.log
